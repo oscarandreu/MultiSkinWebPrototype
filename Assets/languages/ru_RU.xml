@@ -1,0 +1,288 @@
+﻿<!--?xml version="1.0" encoding="UTF-8"?-->
+<translations>
+<word key="test" isjs="true">Тест</word>
+<word key="ActiveLog" isjs="true">АктивныйЛог</word>
+<word key="ActionLog" isjs="true">Действ.Лог</word>
+<word key="Logout" isjs="true">Выход</word>
+<word key="maintenance_mode">В режиме обновлений</word>
+<word key="maintenance_message">Хотим сообщить Вам, что наш технический отдел обновляет BusinessCenter и он будет доступен, как только обновлений будут закончены. Пока мы не знаем сколько времени это может взять, по этой причине мы просим вас быть терпеливыми и ждать пока работа будет завершена.</word>
+<word key="home">Дома</word>
+<word key="history">История</word>
+<word key="transfer">Трансфер</word>
+<word key="new_player">Создать игрока</word>
+<word key="fast">Быстро</word>
+<word key="normal">Обычный</word>
+<word key="new_agent">Создать агент</word>
+<word key="new_franchise">Создать Франчайз</word>
+<word key="new_affiliate">Создание партнера</word>
+<word key="new_external_franchise">Создание внешних Франчайз</word>
+<word key="report">Отчет</word>
+<word key="player_game">Отчет по игрокам</word>
+<word key="agent_game">Отчет по агентом</word>
+<word key="earnings" isjs="true">Доход</word>
+<word key="search">Прибыль</word>
+<word key="advanced">Расширенный</word>
+<word key="my_account" isjs="true">Мои аккаунт</word>
+<word key="personal_details">Личные данные</word>
+<word key="product_configuration">Конфигурации продукта</word>
+<word key="my_network">Моя сеть</word>
+<word key="change_password">Сменить пароль</word>
+<word key="login_history">История входов</word>
+<word key="logout">Выход</word>
+<word key="balance" isjs="true">Баланс</word>
+<word key="loading">Загрузка</word>
+<word key="welcome">Добро пожаловать</word>
+<word key="network">Сеть</word>
+<word key="search_accounts">Поиск</word>
+<word key="invoice">Инвойс</word>
+<word key="security">Безопасность</word>
+<word key="configuration">Конфигураций</word>
+<word key="group_management">Управлений Группами</word>
+<word key="banking">Банковские оп.</word>
+<word key="games">Игры</word>
+<word key="help">Помощь</word>
+<word key="filter">Фильтр</word>
+<word key="cancel" isjs="true">Отмена</word>
+<word key="reset">Сброс</word>
+<word key="confirm">Подтверждать</word>
+<word key="create">Создать</word>
+<word key="select">Выбирать</word>
+<word key="close">Закрыть</word>
+<word key="edit" isjs="true">Редактировать</word>
+<word key="loading_current_balance" isjs='true'>Загрузка текущего баланса</word>
+<word key="real_time_stats">Статистика в реальном режиме</word>
+<word key="performance_summary">Отчет о переводов</word>
+<word key="real_time_earnings">Текущая прибыль</word>
+<word key="player_wl">W/L игроков</word>
+<word key="collusion">Сговор</word>
+
+<word key="Giocatori Attivi" isjs="true">Активные Игроки</word>
+<word key="Numero di giocatori sul cash" isjs="true">Количество игроков в кэш</word>
+<word key="Numero di sessioni aperte sul cash" isjs="true">Количество открытых сессий в кэш</word>
+<word key="Giocatori ai tornei" isjs="true">Игроки в турнирах</word>
+<word key="Bannati oggi" isjs="true">Сегодняшние банны</word>
+<word key="Giocatori Oggi" isjs="true">Игроки сегодня</word>
+<word key="Nuove registrazioni" isjs="true">Новых пользователей</word>
+<word key="Downloads" isjs="true">Загрузки</word>
+<word key="Affiliate Oggi" isjs="true">Партнеры сегодня</word>
+<word key="Nuovi agenti" isjs="true">Новые агенты</word>
+<word key="Transazioni" isjs="true">Транзакций</word>
+<word key="Numero depositi elettronici" isjs="true">Всего электронных депозитов</word>
+<word key="Numero prelivi elettronici" isjs="true">Всего электронные выплаты</word>
+<word key="Network" isjs="true">Сеть</word>
+<word key="Login attivi" isjs="true">Активные пользователи</word>
+<word key="Numero tavoli in gioco" isjs="true">Активные столы</word>
+<word key="Tornei in gioco" isjs="true">Турниры в игре</word>
+<word key="Bonuses" isjs="true">Бонусы</word>
+<word key="Amount bbj" isjs="true">Количество BBJ</word>
+<word key="EnetJackpotWin" isjs="true">EnetJackpotWin</word>
+<word key="username">Имя пользователя</word>
+<word key="nickname">Никнейм"</word>
+<word key="type">Метод</word>
+<word key="subtype">СубМетод</word>
+<word key="direction">Адрес</word>
+<word key="all" isjs="true">все</word>
+<word key="deposits">депозиты</word>
+<word key="withdrawals">снятие</word>
+<word key="date" isjs="true">дата</word>
+<word key="from" isjs="true">от</word>
+<word key="to" isjs="true">до</word>
+<word key="amount">сумма</word>
+<word key="status">статус</word>
+<word key="pending">в ожидании</word>
+<word key="confirmed">подтвержденный</word>
+<word key="rejected">отклоненный</word>
+<word key="cancelled">отмененный</word>
+<word key="records_per_page">Результаты на страницы</word>
+<word key="time">время</word>
+<word key="extra_info">Экстра Информация</word>
+<word key="results">Результаты</word>
+<word key="results_found" isjs="true">Результатов найдены</word>
+<word key="doughflow" isjs='true'>Doughflow</word>
+<word key="provider_transfer" isjs='true'>Трансферы к поставщику</word>
+<word key="transfer_between_accounts" isjs='true'>Перевод со счета на счет</word>
+<word key="master_transfer" isjs='true'>Внешние переводы</word>
+<word key="buy_in" isjs='true'>BuyIn</word>
+<word key="buy_out" isjs='true'>BuyOut</word>
+<word key="bonus" isjs='true'>Бонус</word>
+<word key="earnings_distribution" isjs='true'>Распределение доходы</word>
+<word key="manual_adjustment" isjs='true'>Ручная Регулировка</word>
+<word key="total" isjs='true'>Общий</word>
+<word key="transfer_success">Успешный трансфер</word>
+<word key="amounts_have_been_updated">Суммы были обновлены</word>
+<word key="transfer_error">Ошибка перевода</word>
+<word key="an_error_happened_during_tranfer">Ошибка при переводе</word>
+<!--<word key="click_on_new_transfer" <![CDATA[Нажмите кнопку <strong>"Новый перевод"</strong> чтобы сделать другой перевод]]>"></word>-->
+<!--<word key="click_on_new_transfer_to_try" <![CDATA[Нажмите кнопку <strong>"Новый перевод"</strong> чтобы попробовать снова]]>"></word>-->
+
+<word key="select_an_account" isjs='true'>Выберите аккаунт</word>
+<word key="my_direct_player" isjs='true'>Мой прямой игрок</word>
+<word key="my_direct_agent" isjs='true'>Мой прямой агент</word>
+<word key="his_direct_player" isjs='true'>Его прямой игрок</word>
+<word key="his_direct_agent" isjs='true'>Его прямой агент</word>
+<word key="his_direct_subagent" isjs='true'>Его прямой субагент</word>
+<word key="subagent_player" isjs='true'>Субагент игрок</word>
+<word key="subagent_agent" isjs='true'>Агент Субагента</word>
+<word key="account_not_selected" isjs="true">Аккаунт не выбран"</word>
+<word key="invalid_amount">Неправильная сумма</word>
+<word key="select_the_source_account">Выбрать счет, с которого вы хотите отправить деньги</word>
+<word key="select_the_destination">Выбрать счет, на который вы хотите отправить деньги</word>
+<word key="insert_the_amount">Введите сумму, которую вы хотите перевести</word>
+<word key="after_transaction">После совершения перевода, нажмите на новый перевод, чтобы сделать новую операцию</word>
+<word key="important">Важно</word>
+<word key="login_data">Даты об логине</word>
+<word key="password">Пароль</word>
+<word key="password_must_contains_at_least">Пароль должен содержать как минимум одну цифру и одну букву, не может быть таким же как имя пользователя и должны иметь не менее 6 символов.</word>
+<word key="information">Информация</word>
+<word key="repeat">Повторять</word>
+<word key="error_in_account_creation" isjs='true'>Ошибка при создании аккаунта</word>
+<word key="there_are_invalid_fields" isjs='true'>Есть недопустимые поля</word>
+<word key="this_username_already" isjs='true'>Это имя пользователя уже существует, выберите другое имя пользователя.</word>
+<word key="creation_success" isjs='true'>Успешное создание</word>
+<word key="the_new_player_was_created" isjs='true'>Новый игрок был успешно создан</word>
+<word key="the_new_agent_was_created" isjs='true'>Новый агент был успешно создан.</word>
+<word key="will_be_redirected_to_transfer" isjs="true">Вы будете перенаправлены на трансфер, пожалуйста, подождите ...</word>
+<word key="something_happened_while_creation" isjs="true">Что-то не то случилось во время создания аккаунта</word>
+<word key="max_16_characters">Макс. 16 символов</word>
+<word key="loading_perfil">Загрузка профиля, подождите пожалуйста ...</word>
+<word key="required_fields">Обязательные поля</word>
+<word key="authentication_data">Данные аутентификации</word>
+<word key="requirements">Требование</word>
+<word key="alternate_currency">Альтернативные валюты</word>
+<word key="euro">Евро</word>
+<word key="first_name">Имя</word>
+<word key="last_name">Фамилия</word>
+<word key="birth_date">Дата рождения</word>
+<word key="gender">Пол</word>
+<word key="male">мужчина</word>
+<word key="female">женщина</word>
+<word key="localization">Дом</word>
+<word key="country">Страна</word>
+<word key="time_zone">Часовой пояс</word>
+<word key="contact_data">Контактные данные</word>
+<word key="e-mail">Эл. почта</word>
+<word key="optional_fields">Дополнительная поля</word>
+<word key="street">Улица</word>
+<word key="address">Адрес</word>
+<word key="city">Город</word>
+<word key="province">Область</word>
+<word key="home_phone">Домашний телефон</word>
+<word key="mobile_phone">Мобильный телефон</word>
+<word key="fax">Факс</word>
+<word key="fill_the_form">Заполните форму, чтобы создать новый аккаунт в своей сети.</word>
+<word key="the_fields_marked" isjs='true'>Поля, отмеченные звездочкой - обязательные.</word>
+<word key="fields_password_and_repeat" isjs='true'>Поля пароль и повторите пароль, не равны. Введите его еще раз.</word>
+
+<word key="reference">Референция</word>
+<word key="my">Мой</word>
+<word key="products" isjs="true">Продукты</word>
+<word key="all">Все</word>
+<word key="directs">Прямые</word>
+<word key="players">Игроки</word>
+<word key="parent_agent">Прямой агент</word>
+<word key="wl_cash">W/L Cash</word>
+<word key="rake" isjs="true">Рейк</word>
+<word key="wl_gross_tournament">Турниры W/L</word>
+<word key="fee_tournament">Турниры фее</word>
+<word key="spent_enet_points">Потраченные Enet Points</word>
+<word key="jkp_win">EBBJ Win</word>
+<word key="jkp_contribution">EBBJ вклад</word>
+<word key="wl_t_details" isjs="true">W/L T детали</word>
+<word key="fee_t_details" isjs="true">фее T детали</word>
+<word key="total_wl_details" isjs="true">Всего W/L детали</word>
+<word key="total_fee_details" isjs="true">Всего фее детали</word>
+<word key="marketing">Маркетинг</word>
+<word key="group_by">Группы</word>
+<word key="product" isjs="true">Продукты</word>
+<word key="product_type">ип продукта</word>
+<word key="total_unpaid_earnings">Общий невыплаченный доход</word>
+<word key="total_rake_network">Всего pейк сети</word>
+<word key="total_earnings">Всего доходы</word>
+<word key="paid_earnings">Оплаченная прибыль</word>
+<word key="unpaid_earnings">Невыплаченные доходы</word>
+<word key="difference" isjs="true">Разница</word>
+<word key="my_earnings" isjs="true">Мой прибыль</word>
+<word key="sign_up_data">Датаы регистрации</word>
+<word key="sign_up_ip">IP регистрации</word>
+<word key="sign_up_localization">Локализация регистрации</word>
+<word key="sign_up_date">Дата регистрации</word>
+<word key="sign_up">Зарегистрироваться</word>
+<word key="total_balance" isjs="true">Всего баланс</word>
+<word key="all_network_balance" isjs='true'>Баланс всей сети</word>
+<word key="edit">Редактировать</word>
+<word key="my_products_list">Список моих продуктов</word>
+<word key="agent">Агент</word>
+<word key="percentage">Проценты</word>
+<word key="cobank">Кoбaнk</word>
+<word key="status">Статус</word>
+<word key="cobank_mode">Кoбaнk режим (только для казино)</word>
+<word key="active_product">Активные продукты</word>
+<word key="inactive_product">Не Активные продукты</word>
+<word key="product_cobank_disabled">Продукт или Кoбaнk отключено</word>
+<word key="my_balance" isjs="true">Мой баланс</word>
+<word key="agent_balance" isjs="true">Агент баланс</word>
+<word key="direct_players_balance" isjs="true">Баланс прямых игроков</word>
+<word key="indirect_players_balance" isjs="true">Баланс косвенных игроков</word>
+<word key="my_direct_agents_balance" isjs="true">Баланс моих прямых агентов</word>
+<word key="my_indirect_agents_balance" isjs="true">Баланс агентов субагента</word>
+<word key="direct_agents_balance" isjs="true">Баланс моих прямых агентов</word>
+<word key="indirect_agents_balance" isjs="true">Баланс агентов субагента</word>
+<word key="genera_password">Генерировать пароли</word>
+<word key="new_password">Новый пароль</word>
+<word key="invalid_password">Неверный пароль</word>
+<word key="error_code" isjs="true">Ошибка кода</word>
+<word key="password_was_successfully" isjs='true'>Пароль был успешно изменен</word>
+<word key="ip_client">IP клиента</word>
+<word key="ip_device">IP-устройствы</word>
+<word key="id" isjs="true">ID</word>
+<word key="type">Тип</word>
+<word key="username">Имя пользователя</word>
+<word key="nickname">Никнейм</word>
+<word key="name">Имя</word>
+<word key="active" isjs="true">Активный</word>
+<word key="disabled" isjs="true">НеАктивный</word>
+<word key="banned" isjs="true">Бан</word>
+<word key="account_statement" isjs="true">Выписка по счету</word>
+<word key="make_a_deposit" isjs="true">Внести депозит</word>
+<word key="make_a_withdrawal" isjs="true">Сделать вывод</word>
+<word key="table_session" isjs="true">Сделать вывод</word>
+<word key="player_tree" isjs="true">Структура игрока</word>
+<word key="reset_password" isjs="true">Сброс пароля</word>
+<word key="keyword">Ключевое слово</word>
+<word key="key_type">Тип ключа</word>
+<word key="type_account">Тип аккаунта</word>
+<word key="network_tree">Структура сети</word>
+<word key="personal_statements">Выписка личного аккаунта</word>
+<word key="own_account">Собственный аккаунт</word>
+<word key="state">Положение</word>
+<word key="win_loss_poker_cash">W/L в кэш</word>
+<word key="win_loss_poker_tour">W/L в Т</word>
+<word key="total_deposits">Всего депозиты</word>
+<word key="total_payouts">Всего выплаты</word>
+<word key="total_bonus_converted">Конвертированный общий бонус</word>
+<word key="total_bonus_free">Всего бонусы, полученные</word>
+<word key="player_game_preferences">Предпочтение игры</word>
+<word key="rake_performance">Производительность рейка</word>
+<word key="stakes">Ставки</word>
+<word key="stake" isjs='true'>Ставка</word>
+<word key="actions">Действия</word>
+<word key="total_rake">Всего рейкl</word>
+<word key="total_fee">Всего фее</word>
+<word key="visibility">Видимость</word>
+<word key="player">Игрок</word>
+<word key="here_is_possible_to_change">Отсюда вы можете изменить текущий пароль на новой ...</word>
+<word key="total_wallet">Мой баланс</word>
+<word key="balance_on_tree">Баланс сети</word>
+<word key="total_withdrawals">Всего Выплаты</word>
+<word key="start_stop_configure">Включить, Отключить продукты для этого агента и его субагентов</word>
+<word key="profit">Прибыль</word>
+<word key="legend">Легенда</word>
+<word key="for_this_page">Для этой страницы</word>
+<word key="status_for_direct">Статус прямого счета</word>
+<word key="status_for_indirect">Статус косвенного счета</word>
+<word key="to_interact"></word>
+<word key="save" isjs="true">Сохранить</word>
+
+<word key="make_transaction">Сделать перевод</word>
+
+</translations>

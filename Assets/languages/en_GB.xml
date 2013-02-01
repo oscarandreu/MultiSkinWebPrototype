@@ -1,0 +1,622 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<translations>
+	<word key="test" isjs="true">Test</word>
+	<word key="ActiveLog" isjs="true">ActiveLog</word>
+	<word key="ActionLog" isjs="true">ActionLog</word>
+	<word key="Logout" isjs="true">Logout</word>
+	<word key="maintenance_mode">Maintenance Mode</word>
+	<word key="maintenance_message">Let us inform you that our Technical Department is updating the BusinessCenter and it will be available as soon as the maintenance will be finished. We don't have an ETA right now, so for this reason we kindly ask you to be patient  and wait until it's done.</word>
+	<word key="home">Home</word>
+	<word key="history">History</word>
+	<word key="transfer">Transfer</word>
+	<word key="new_player">New Player</word>
+	<word key="fast">Fast</word>
+	<word key="normal">Normal</word>
+	<word key="new_agent">New Agent</word>
+	<word key="new_franchise">New Franchise</word>
+	<word key="new_affiliate">New Affiliate</word>
+	<word key="new_external_franchise">New External Franchise</word>
+	<word key="report">Report</word>
+	<word key="player_game">Player Game</word>
+	<word key="agent_game">Agent Game</word>
+	<word key="earnings" isjs="true">Earnings</word>
+	<word key="search">Search</word>
+	<word key="advanced">Advanced</word>
+	<word key="my_account" isjs="true">My Account</word>
+	<word key="personal_details">Personal Details</word>
+	<word key="product_configuration">Product Configuration</word>
+	<word key="my_network">My Network</word>
+	<word key="change_password">Change Password</word>
+	<word key="login_history">Login History</word>
+	<word key="logout">Logout</word>
+	<word key="balance" isjs="true">Balance</word>
+	<word key="loading">Loading</word>
+	<word key="welcome">Welcome</word>
+	<word key="network">Network</word>
+	<word key="search_accounts">Search Accounts</word>
+	<word key="invoice">Invoice</word>
+	<word key="security">Security</word>
+	<word key="configuration">Configuration</word>
+	<word key="group_management">Group Mangement</word>
+	<word key="banking">Banking</word>
+	<word key="games">Games</word>
+	<word key="help">Help</word>
+	<word key="filter">Filter</word>
+	<word key="cancel" isjs="true">Cancel</word>
+	<word key="reset">Reset</word>
+	<word key="confirm">Confirm</word>
+	<word key="create">Create</word>
+	<word key="select">Select</word>
+	<word key="close">Close</word>
+	<word key="edit" isjs="true">Edit</word>
+	<word key="loading_current_balance" isjs="true">Loading current balance</word>
+	<word key="real_time_stats">Real Time Stats</word>
+	<word key="performance_summary">Performance Summary</word>
+	<word key="real_time_earnings">Real Time Earnings</word>
+	<word key="player_wl">Player W/L</word>
+	<word key="collusion">Collusion</word>
+	<word key="Giocatori Attivi" isjs="true">Active Players</word>
+	<word key="Numero di giocatori sul cash" isjs="true">Player Cash</word>
+	<word key="Numero di sessioni aperte sul cash" isjs="true">Open Sessions Cash</word>
+	<word key="Giocatori ai tornei" isjs="true">Players Tournaments</word>
+	<word key="Bannati oggi" isjs="true">Banned Today</word>
+	<word key="Giocatori Oggi" isjs="true">Players Today</word>
+	<word key="Nuove registrazioni" isjs="true">New Sign Ups</word>
+	<word key="Downloads" isjs="true">Downloads</word>
+	<word key="Affiliate Oggi" isjs="true">Affiliate Today</word>
+	<word key="Nuovi agenti" isjs="true">New Agents</word>
+	<word key="Transazioni" isjs="true">Transactions</word>
+	<word key="Numero depositi elettronici" isjs="true">Total Electronic Deposits</word>
+	<word key="Numero prelivi elettronici" isjs="true">Total Electronic Payouts</word>
+	<word key="Network" isjs="true">Network</word>
+	<word key="Login attivi" isjs="true">Active Login</word>
+	<word key="Numero tavoli in gioco" isjs="true">Playing Tables</word>
+	<word key="Tornei in gioco" isjs="true">Playing Tournaments</word>
+	<word key="Bonuses" isjs="true">Bonuses</word>
+	<word key="Amount bbj" isjs="true">Amount BBJ</word>
+	<word key="EnetJackpotWin" isjs="true">EnetJackpotWin</word>
+	<word key="username">Username</word>
+	<word key="type">Type</word>
+	<word key="subtype">Subtype</word>
+	<word key="direction">Direction</word>
+	<word key="all" isjs="true">All</word>
+	<word key="deposits">Deposits</word>
+	<word key="withdrawals">Withdrawals</word>
+	<word key="date" isjs="true">Date</word>
+	<word key="from" isjs="true">From</word>
+	<word key="to" isjs="true">To</word>
+	<word key="amount">Amount</word>
+	<word key="status">Status</word>
+	<word key="pending">Pending</word>
+	<word key="confirmed">Confirmed</word>
+	<word key="rejected">Rejected</word>
+	<word key="cancelled">Cancelled</word>
+	<word key="records_per_page">Records Per Page</word>
+	<word key="time">Time</word>
+	<word key="extra_info">Extra Info</word>
+	<word key="results">Results</word>
+	<word key="results_found" isjs="true">Results found</word>
+	<word key="doughflow" isjs="true">Doughflow</word>
+	<word key="provider_transfer" isjs="true">Provider Transfer</word>
+	<word key="transfer_between_accounts" isjs="true">Transfer Between Accounts</word>
+	<word key="master_transfer" isjs="true">Master Transfer</word>
+	<word key="buy_in" isjs="true">BuyIn</word>
+	<word key="buy_out" isjs="true">BuyOut</word>
+	<word key="bonus" isjs="true">Bonus</word>
+	<word key="earnings_distribution" isjs="true">Earnings Distribution</word>
+	<word key="manual_adjustment" isjs="true">Manual Adjustment</word>
+	<word key="total" isjs="true">Total</word>
+	<word key="transfer_success">Transfer Success</word>
+	<word key="amounts_have_been_updated">Amounts have been updated</word>
+	<word key="transfer_error">Transfer Error</word>
+	<word key="an_error_happened_during_tranfer">An error happended during transfer</word>
+	<word key="select_an_account" isjs="true">Select An Account</word>
+	<word key="my_direct_player" isjs="true">My Direct Player</word>
+	<word key="my_direct_agent" isjs="true">My Direct Agent</word>
+	<word key="his_direct_player" isjs="true">His Direct Player</word>
+	<word key="his_direct_agent" isjs="true">His Direct Agent</word>
+	<word key="his_direct_subagent" isjs="true">His Direct Subagent</word>
+	<word key="subagent_player" isjs="true">Subagent Player</word>
+	<word key="subagent_agent" isjs="true">Subagent Agent</word>
+	<word key="account_not_selected" isjs="true">Account not selected</word>
+	<word key="invalid_amount">Invalid amount</word>
+	<word key="select_the_source_account">select the account from which you want to send money</word>
+	<word key="select_the_destination">select the account to which you want to send money</word>
+	<word key="insert_the_amount">Enter the amount you wish to transfer</word>
+	<word key="after_transaction">After making the transaction, click on new transfers to make a new operation</word>
+	<word key="important">Important</word>
+	<word key="login_data">Login Data</word>
+	<word key="password">Password</word>
+	<word key="password_must_contains_at_least">The password must contain at least one number and one letter, can not be the same username and must have a minimum of 6 characters</word>
+	<word key="information">Information</word>
+	<word key="repeat">Repeat</word>
+	<word key="error_in_account_creation" isjs="true">Error in account creation</word>
+	<word key="there_are_invalid_fields" isjs="true">There are invalid fields</word>
+	<word key="this_username_already" isjs="true">This username already exist, select another username.</word>
+	<word key="creation_success" isjs="true">Creation Success</word>
+	<word key="the_new_player_was_created" isjs="true">The new player was successfully created.</word>
+	<word key="the_new_agent_was_created" isjs="true">The new agent has been successfully created.</word>
+	<word key="will_be_redirected_to_transfer" isjs="true">You will be redirected to Transfer, please wait...</word>
+	<word key="something_happened_while_creation" isjs="true">Something bad happened during account creation</word>
+	<word key="max_16_characters">Max. 16 characters</word>
+	<word key="loading_perfil">Loading perfil, wait a moment...</word>
+	<word key="required_fields">Required Fields</word>
+	<word key="authentication_data">Authentication Data</word>
+	<word key="requirements">Requirements</word>
+	<word key="alternate_currency">Alternate Currency</word>
+	<word key="euro">Euro</word>
+	<word key="first_name">First Name</word>
+	<word key="last_name">Last Name</word>
+	<word key="birth_date">Birth Date</word>
+	<word key="gender">Gender</word>
+	<word key="male">Male</word>
+	<word key="female">Female</word>
+	<word key="localization">Localization</word>
+	<word key="country">Country</word>
+	<word key="time_zone">Time Zone</word>
+	<word key="contact_data">Contact Data</word>
+	<word key="e-mail">E-mail</word>
+	<word key="optional_fields">Optional Fields</word>
+	<word key="street">Street</word>
+	<word key="address">Address</word>
+	<word key="city">City</word>
+	<word key="province">Province</word>
+	<word key="home_phone">Home Phone</word>
+	<word key="mobile_phone">Mobile Phone</word>
+	<word key="fax">Fax</word>
+	<word key="fill_the_form">Fill the form to create a new player account in your own network.</word>
+	<word key="the_fields_marked" isjs="true">The fields marked whith an asterisk are required.</word>
+	<word key="fields_password_and_repeat" isjs="true">the fields password and repeat-password are not equal. Itroduce it again.</word>
+	<word key="reference">Reference</word>
+	<word key="my">My</word>
+	<word key="products" isjs="true">Products</word>
+	<word key="directs">Directs</word>
+	<word key="players">Players</word>
+	<word key="parent_agent">Parent Agent</word>
+	<word key="wl_cash">W/L Cash</word>
+	<word key="rake" isjs="true">Rake</word>
+	<word key="wl_gross_tournament">W/L Gross Tournament</word>
+	<word key="fee_tournament">Fee Tournament</word>
+	<word key="spent_enet_points">Spent Enet Points</word>
+	<word key="jkp_win">EBBJ Win</word>
+	<word key="jkp_contribution">EBBJ Contribution</word>
+	<word key="wl_t_details" isjs="true">W/L T Details</word>
+	<word key="fee_t_details" isjs="true">Fee T Details</word>
+	<word key="total_wl_details" isjs="true">Total W/L Details</word>
+	<word key="total_fee_details" isjs="true">Total Fee Details</word>
+	<word key="marketing">Marketing</word>
+	<word key="group_by">Group by</word>
+	<word key="product" isjs="true">Product</word>
+	<word key="product_type">Product Type</word>
+	<word key="total_unpaid_earnings">Total Unpaid Earnings</word>
+	<word key="total_rake_network">Total Rake Network</word>
+	<word key="total_earnings">Total Earnings</word>
+	<word key="paid_earnings">Paid Earnings</word>
+	<word key="unpaid_earnings">Unpaid Earnings</word>
+	<word key="difference" isjs="true">Difference</word>
+	<word key="my_earnings" isjs="true">My Earnings</word>
+	<word key="sign_up_data">Sign Up Data</word>
+	<word key="sign_up_ip">Sign Up Ip</word>
+	<word key="sign_up_localization">Sign Up Localization</word>
+	<word key="sign_up_date">Sign Up Date</word>
+	<word key="sign_up">Sign Up</word>
+	<word key="total_balance" isjs="true">Total Balance</word>
+	<word key="all_network_balance" isjs="true">All Network Balance</word>
+	<word key="edit">Edit</word>
+	<word key="my_products_list">My Products List</word>
+	<word key="agent">Agent</word>
+	<word key="percentage">Percentage</word>
+	<word key="cobank">Cobank</word>
+	<word key="status">Status</word>
+	<word key="cobank_mode">Cobank mode (only for casino)</word>
+	<word key="active_product">Active product</word>
+	<word key="inactive_product">Inactive product</word>
+	<word key="product_cobank_disabled">Product or cobank disabled</word>
+	<word key="my_balance" isjs="true">My Balance</word>
+	<word key="agent_balance" isjs="true">Agent Balance</word>
+	<word key="direct_players_balance" isjs="true">Direct Players Balance</word>
+	<word key="indirect_players_balance" isjs="true">Indirect Players Balance</word>
+	<word key="my_direct_agents_balance" isjs="true">My Direct Agents Balance</word>
+	<word key="my_indirect_agents_balance" isjs="true">My Indirect Agents Balance</word>
+	<word key="direct_agents_balance" isjs="true">Direct Agents Balance</word>
+	<word key="indirect_agents_balance" isjs="true">Indirect Agents Balance</word>
+	<word key="genera_password">Genera Password</word>
+	<word key="new_password">New Password</word>
+	<word key="invalid_password">Invalid Password</word>
+	<word key="error_code" isjs="true">Error Code</word>
+	<word key="password_was_successfully" isjs="true">Password was successfully changed</word>
+	<word key="ip_client">IP Client</word>
+	<word key="ip_device">IP Device</word>
+	<word key="id" isjs="true">Id</word>
+	<word key="type">Type</word>
+	<word key="username">Username</word>
+	<word key="nickname">Nickname</word>
+	<word key="name">Name</word>
+	<word key="active" isjs="true">Active</word>
+	<word key="disabled" isjs="true">Disabled</word>
+	<word key="banned" isjs="true">Banned</word>
+	<word key="account_statement" isjs="true">Account Statement</word>
+	<word key="make_a_deposit" isjs="true">Make a Deposit</word>
+	<word key="make_a_withdrawal" isjs="true">Make a Withdrawal</word>
+	<word key="table_session" isjs="true">Table Session</word>
+	<word key="player_tree" isjs="true">Player Tree</word>
+	<word key="reset_password" isjs="true">Reset Password</word>
+	<word key="keyword">Keyword</word>
+	<word key="key_type">Key Type</word>
+	<word key="type_account">Type Account</word>
+	<word key="network_tree">Network Tree</word>
+	<word key="personal_statements">Personal Statements</word>
+	<word key="own_account">Own Account</word>
+	<word key="state">State</word>
+	<word key="win_loss_poker_cash">Win/Loss Poker Cash</word>
+	<word key="win_loss_poker_tour">Win/Loss Poker Tour.</word>
+	<word key="total_deposits">Total Deposits</word>
+	<word key="total_payouts">Total Payouts</word>
+	<word key="total_bonus_converted">Total Bonus Converted</word>
+	<word key="total_bonus_free">Total Bonus Free</word>
+	<word key="player_game_preferences">Player Game Preferences</word>
+	<word key="rake_performance">Rake Performance</word>
+	<word key="stakes">Stakes</word>
+	<word key="stake" isjs="true">Stake</word>
+	<word key="actions">Actions</word>
+	<word key="total_rake">Total Rake</word>
+	<word key="total_fee">Total Fee</word>
+	<word key="visibility">Visibility</word>
+	<word key="player">Player</word>
+	<word key="here_is_possible_to_change">Here is possible to change current password for the current account. Pay attenttion...</word>
+	<word key="total_wallet">Total Wallet</word>
+	<word key="balance_on_tree">Balance On Tree</word>
+	<word key="total_withdrawals">Total Withdrawals</word>
+	<word key="start_stop_configure">Start, stop, configure products for this agent and for its subnet.</word>
+	<word key="profit">Profit</word>
+	<word key="legend">Legend</word>
+	<word key="for_this_page"></word>
+	<word key="status_for_direct">Status for direct account</word>
+	<word key="status_for_indirect">Status for indirect accout</word>
+	<word key="to_interact">To interact with the values, click on the Edit button</word>
+	<word key="save" isjs="true">Save</word>
+	<word key="make_transaction">Make Transaction</word>
+	<word key="poker_liability">Poker Liability</word>
+	<word key="fee">Fee</word>
+	<word key="liability">Liability</word>
+	<word key="fee">Fee</word>
+	<word key="bbj_win">BBJ Win</word>
+	<word key="generated_enet_points">Generated Enetpoints</word>
+	<word key="date_presets">Date Presets</word>
+	<word key="manual" isjs="true">Manual</word>
+	<word key="today">Today</word>
+	<word key="current_week">Current Week</word>
+	<word key="last_week">Last Week</word>
+	<word key="current_month">Current Month</word>
+	<word key="current_trimester">Current Trimester</word>
+	<word key="current_semester">Current Semester</word>
+	<word key="current_year">Current Year</word>
+	<word key="order_by">Order By</word>
+	<word key="cash_traffic">Cash Traffic</word>
+	<word key="unique">Unique</word>
+	<word key="rake">Rake</word>
+	<word key="avg_pl_rake">Avg. Pl. Rake</word>
+	<word key="n_pl_hand">#Pl. Hand</word>
+	<word key="avg_hand">Avg. Hand</word>
+	<word key="tournaments">Tournaments</word>
+	<word key="avg_pl_fees">Avg. Pl. Fees</word>
+	<word key="table_name" isjs="true">Table Name</word>
+	<word key="game_type">Game Type</word>
+	<word key="table_limit">Table Limit</word>
+	<word key="session_status">Session Status</word>
+	<word key="opened_sessions">Opened Sessions</word>
+	<word key="win_loss">Win/Loss</word>
+	<word key="played_hands">Played Hands</word>
+	<word key="wl">W/L</word>
+	<word key="table_information">Table Information</word>
+	<word key="start_balance">Start Balance</word>
+	<word key="money_add">Money Add</word>
+	<word key="end_balance">End Balance</word>
+	<word key="hands">Hands</word>
+	<word key="tournament_information">Tournament Information</word>
+	<word key="re-buy_ins">Re-Buyins</word>
+	<word key="addons">Addons</word>
+	<word key="growing_balance">Growing balance</word>
+	<word key="decreasing_balance">Decreasing balance</word>
+	<word key="same_balance">Same balance</word>
+	<word key="extra_info_on_the_session">Extra info on the session</word>
+	<word key="time_information">Time Information</word>
+	<word key="player_direct_to_the_franchise">Player direct to the franchise</word>
+	<word key="session_peer">Session_peer</word>
+	<word key="session_in_win">Session in win</word>
+	<word key="session_in_loss">Session in loss</word>
+	<word key="start_time" isjs="true">Start Time</word>
+	<word key="end_time" isjs="true">End Time</word>
+	<word key="tournament_name">Tournament Name</word>
+	<word key="cash_game_details">Cash Game Details</word>
+	<word key="wl_games">W/L Games</word>
+	<word key="total_rake_cash_game">Total Rake Cash Game</word>
+	<word key="total_table_session">Total Table Session</word>
+	<word key="total_buy_in">Total Buy in</word>
+	<word key="total_hands">Total Hands</word>
+	<word key="average_rake">Average Rake</word>
+	<word key="average_bet">Average Bet</word>
+	<word key="raked_hands">Raked Hands</word>
+	<word key="transfer_details">Transfer Details</word>
+	<word key="transfer_between_accounts_received">Transfer Between Accounts Received</word>
+	<word key="transfer_between_accounts_sent">Transfer Between Accounts Sent</word>
+	<word key="tournaments_details">Tournaments Details</word>
+	<word key="total_payouts">Total Payout</word>
+	<word key="n_tournaments_played">No. Tournaments Played</word>
+	<word key="average_fee">Average Fee</word>
+	<word key="promotion_and_bonus">Promotion and Bonus</word>
+	<word key="enet_bonus_received">Enet Bonus Received</word>
+	<word key="enet_bonus_realized">Enet Bonus Realized</word>
+	<word key="enet_points_generated">Enet Points Generated</word>
+	<word key="enet_points_used">Enet Points Used</word>
+	<word key="report_not_available">Report not available</word>
+	<word key="our_technicians">Our technicians are working , this report will be available shortly.</word>
+	<word key="to_see_your_earnings">to see your earnings go to</word>
+	<word key="player_game_report">Player Game Report</word>
+	<word key="values_below">This report is updated every 30 minutes</word>
+	<word key="Nuovi affiliati" isjs="true">New Affiliates</word>
+	<word key="DoughFlow" isjs="true">Doughflow</word>
+	<word key="EarningsDistribution" isjs="true">Earnings Distribution</word>
+	<word key="TransferBetweenAccounts" isjs="true">Transfer Between Accounts</word>
+	<word key="Type" isjs="true">Type</word>
+	<word key="Deposit" isjs="true">Deposit</word>
+	<word key="Diff" isjs="true">Diff</word>
+	<word key="Payout" isjs="true">Payout</word>
+	<word key="ManualAdjustment" isjs="true">Manual Adjustment</word>
+	<word key="Manual" isjs="true">Manual</word>
+	<word key="with player" isjs="true">With player</word>
+	<word key="with agent" isjs="true">With agent</word>
+	<word key="new_transfer">New Transfer</word>
+	<word key="alert_tickets" isjs="true">Alert Tickets</word>
+	<word key="open_tickets" isjs="true">Open Tickets</word>
+	<word key="player_traffic_report">Player Traffic Report</word>
+	<word key="franchise">Franchise</word>
+	<word key="last_month">Last Month</word>
+	<word key="recommended_browsers">Recommended Browsers</word>
+	<word key="No Limit" isjs="true">No Limit</word>
+	<word key="Pot Limit" isjs="true">Pot Limit</word>
+	<word key="Fixed Limit" isjs="true">Fixed Limit</word>
+	<word key="opened_sessions" isjs="true">Opened Sessions</word>
+	<word key="total_bets" isjs="true">Total Bets</word>
+	<word key="client_ip">Client IP</word>
+	<word key="device_ip">Device IP</word>
+	<word key="table_session">Table Session</word>
+	<word key="tournament_session">Tournament Session</word>
+	<word key="player_summary_report">Player Summary Report</word>
+	<word key="to_get_results" isjs="true">to get results is required to insert a date range</word>
+	<word key="total_enet_points">Total Enet Points</word>
+	<word key="edit_player_details">Edit Player Details</word>
+	<word key="poker" isjs="true">Poker</word>
+	<word key="error" isjs="true">Error</word>
+	<word key="something_bad_happened_while" isjs="true">Something bad happened while getting data</word>
+	<word key="first" isjs="true">First</word>
+	<word key="last" isjs="true">Last</word>
+	<word key="next" isjs="true">Next</word>
+	<word key="prev" isjs="true">Prev</word>
+	<word key="comissions">Comissions</word>
+	<word key="accounting">Accounting</word>
+	<word key="liability_risk_report">Liability Risk Report</word>
+	<word key="pending_payout_report">Pending Payout Report</word>
+	<word key="hand_history">Hand History</word>
+	<word key="time_session">Time Session</word>
+	<word key="games_statistics">Games Statistics</word>
+	<word key="finished_tournaments">Finished Tournaments</word>
+	<word key="jackpot_report">Jackpot Report</word>
+	<word key="general_fee_manager">General Fee Manager</word>
+	<word key="custom_fee_manager">Custom Fee Manager</word>
+	<word key="manual_adjustments">Manual Adjustments</word>
+	<word key="current_invoice">Current Invoice</word>
+	<word key="online_players">Online Players</word>
+	<word key="associated_players">Associated Players</word>
+	<word key="changes_log_history">Changes Log History</word>
+	<word key="ip_log">Ip Log</word>
+	<word key="documentation">Documentation</word>
+	<word key="the_new_franchise_was_created" isjs="true">The new franchise has been successfully created.</word>
+	<word key="new_ext_master">New Ext Master</word>
+	<word key="created_ext_master">Created Ext Master</word>
+	<word key="sign_up_date">Sign Up Date</word>
+	<word key="change_password_next" isjs="true">Change password next login</word>
+	<word key="ban_account" isjs="true">Ban Account</word>
+	<word key="unban_account" isjs="true">Unban Account</word>
+	<word key="action" isjs="true">Action</word>
+	<word key="" isjs="true"></word>
+	<word key="Numero depositi Esterni" isjs="true">External Deposits</word>
+	<word key="Numero prelievi Esterni" isjs="true">External Withdrawals</word>
+	<word key="limits">Limits</word>
+	<word key="ecj">ECJ</word>
+	<word key="group">Group</word>
+	<word key="country_code">Country Code</word>
+	<word key="country_name">Country Name</word>
+	<word key="external_id">External Id</word>
+	<word key="franchise_id">Franchise Id</word>
+	<word key="franchise_name">Franchise Name</word>
+	<word key="number_of_players">Number of Players</word>
+	<word key="integration">Integration</word>
+	<word key="to_perform_a_search">To perform a search, you must select a franchise</word>
+	<word key="search_found_no_results" isjs="true">Search found no results</word>
+	<word key="excel">Excel</word>
+	<word key="distribution_mode" isjs="true">Distribution Mode</word>
+	<word key="network_distribution" isjs="true">Network Distribution</word>
+	<word key="current_distribution" isjs="true">Current Distribution</word>
+	<word key="current_cycle" isjs="true">Current Cycle</word>
+	<word key="distribution" isjs="true">Distribution</word>
+	<word key="pay_checked_internally">Pay Checked Internally</word>
+	<word key="pay_checked_externally">Pay Checked Externally</word>
+	<word key="tournament_fees">Tournament Fees</word>
+	<word key="enet_jackpot_contribution" isjs="true">Enet Jackpot Contribution</word>
+	<word key="deposit_pay_system" isjs="true">Deposit Pay System</word>
+	<word key="withdrawal_pay_system">Withdrawal Pay System</word>
+	<word key="enet_bonuses_converted">Enet Bonuses Converted</word>
+	<word key="group_id">Group Id</word>
+	<word key="group_name">Group Name</word>
+	<word key="real_liability">Real Liability</word>
+	<word key="liability_limit">Liability Limit</word>
+	<word key="critical_liability">Critical Liability</word>
+	<word key="current_liability">Current Liability</word>
+	<word key="trace_id">Trace Id</word>
+	<word key="amount_total_df">Amount Total DF</word>
+	<word key="num_total_df">Num Total DF</word>
+	<word key="amount_total_ba">Amount Total BA</word>
+	<word key="total_cash_wl">Total Cash W/L</word>
+	<word key="total_tournament_wl">Total Tournament W/L</word>
+	<word key="bonus_get">Bonus Get</word>
+	<word key="bonus_free">Bonus Free</word>
+	<word key="pending_request">Pending Request</word>
+	<word key="total_amount_buyins">Total Amount Buyins</word>
+	<word key="total_amount_added">Total Amount Added</word>
+	<word key="total_amount_buyouts">Total Amount Buyouts</word>
+	<word key="second_nd">2nd</word>
+	<word key="player_cards">Player Cards</word>
+	<word key="bet_structure" isjs="true">Bet Structure</word>
+	<word key="stake_limit" isjs="true">Stake Limit</word>
+	<word key="table_seats" isjs="true">Table Seats</word>
+	<word key="total_hands_played" isjs="true">Total Hands Played</word>
+	<word key="jackpot" isjs="true">Jackpot</word>
+	<word key="report_type">Report Type</word>
+	<word key="regular">Regular</word>
+	<word key="by_table_limit">By Table Limit</word>
+	<word key="small_blind">Small Blind</word>
+	<word key="big_blind">Big Blind</word>
+	<word key="tournament_id">Tournament ID</word>
+	<word key="start">Start</word>
+	<word key="end">End</word>
+	<word key="buyins">Buyins</word>
+	<word key="fees">Fees</word>
+	<word key="price_granted">Price Granted</word>
+	<word key="price_collected">Price Collected</word>
+	<word key="cash_game_details">Cash Game Details</word>
+	<word key="jackpot_winner_nickname" isjs="true">Jackpot Winner Nickname</word>
+	<word key="jackpot_winner_parent_username" isjs="true">Jackpot Winner Parent Username</word>
+	<word key="jackpot_winner_franchise_username" isjs="true">Jackpot Winner Franchise Username</word>
+	<word key="jackpot_winner_amount_won" isjs="true">Jackpot Winner Amount Won</word>
+	<word key="amount_before_won">Amount Before Won</word>
+	<word key="table_id">Table ID</word>
+	<word key="table_info">Table Info</word>
+	<word key="pcnt_won">PCNT Won</word>
+	<word key="amount_distributed">Amount Distributed</word>
+	<word key="id_hand_history">ID Hand History</word>
+	<word key="jackpot_winner_info">Jackpot Winner Info</word>
+	<word key="hand_winner_info">Hand Winner Info</word>
+	<word key="remaining_on_net">Remaining On Net</word>
+	<word key="fee_network">Fee Network</word>
+	<word key="other_players">Other Players</word>
+	<word key="hand_winner_nickname" isjs="true">Hand Winner Nickname</word>
+	<word key="jackpot_type">Jackpot Type</word>
+	<word key="id_hand">Id Hand</word>
+	<word key="bbj">BBJ</word>
+	<word key="merchand_fees">Merchand Fees</word>
+	<word key="invoicer_fees">Invoicer Fees</word>
+	<word key="total_fees">Total Fees</word>
+	<word key="merchand">Merchand</word>
+	<word key="fix_dep">Fix Dep</word>
+	<word key="dep">Dep</word>
+	<word key="fix_with">Fix With</word>
+	<word key="with">With</word>
+	<word key="new_record">New Record</word>
+	<word key="add_general_fee_manager">Add General Fee Manager</word>
+	<word key="payment_method">Payment Method</word>
+	<word key="fee_merchand_deposit_fix">Fee Merchand Deposit Fix</word>
+	<word key="fee_merchand_deposit_perc">Fee Merchand Deposit Perc</word>
+	<word key="fee_merchand_payout_fix">Fee Merchand Payout Fix</word>
+	<word key="fee_merchand_payout_perc">Fee Merchand Payout Perc</word>
+	<word key="fee_emaster_deposit_fix">Fee Emaster Deposit Fix</word>
+	<word key="fee_emaster_deposit_perc">Fee Emaster Deposit Perc</word>
+	<word key="fee_emaster_payout_fix">Fee Emaster Payout Fix</word>
+	<word key="fee_emaster_payout_perc">Fee Emaster Payout Perc</word>
+	<word key="website">Website</word>
+	<word key="emaster_deposit">Emaster Deposit</word>
+	<word key="emaster_payout">Emaster Payout</word>
+	<word key="payment_type">Payment Type</word>
+	<word key="search_by">Search By</word>
+	<word key="reference_date">Reference Date</word>
+	<word key="notes">Notes</word>
+	<word key="deposit">Deposit</word>
+	<word key="id_account">Id Account</word>
+	<word key="add_manual_adjustment">Add Manual Adjustment</word>
+	<word key="comments" isjs="true">Comments</word>
+	<word key="text_id">Text ID</word>
+	<word key="payments">Payments</word>
+	<word key="daily_deposit">Daily Deposit</word>
+	<word key="prev_daily_deposit">Prev Daily Deposit</word>
+	<word key="daily_withdrawal">Daily Withdrawal</word>
+	<word key="prev_daily_withdrawal">Prev Daily Withdrawal</word>
+	<word key="total_transactions">Total Transactions</word>
+	<word key="total_clean_fees">Total Clean Fees</word>
+	<word key="total_gain">Total Gain</word>
+	<word key="ant">Ant</word>
+	<word key="rank">Rank</word>
+	<word key="integration_type">Integration Type</word>
+	<word key="theorical_rake">Theorical Rake</word>
+	<word key="session_time">Session Time</word>
+	<word key="account">Account</word>
+	<word key="parent_account">Parent Account</word>
+	<word key="parent_username">Parent Username</word>
+	<word key="total_time_period">Total Time Period</word>
+	<word key="total_time_session">Total Time Session</word>
+	<word key="tracked_hands">Tracked Hands</word>
+	<word key="total_tracked_winloss">Total Tracked Win/Loss</word>
+	<word key="risk_rank">Risk Rank</word>
+	<word key="name_collision">Name Collision</word>
+	<word key="ip_address_collision">IP Address Collision</word>
+	<word key="parent_agent_collision">Parent Agent Collision</word>
+	<word key="mac_address_collision">MAC Address Collision</word>
+	<word key="motherboard_collision">Motherboard Collision</word>
+	<word key="hdd_collision">HDD Collision</word>
+	<word key="total_wl">Total W/L</word>
+	<word key="kickout_from_this_table" isjs="true">Kickout from this table</word>
+	<word key="kickout_from_all_tables" isjs="true">Kickout from all tables</word>
+	<word key="kickout" isjs="true">Kickout</word>
+	<word key="error_while_kickout" isjs="true">Error while kickout</word>
+	<word key="the_player" isjs="true">Player</word>
+	<word key="was_expelled_from" isjs="true">was expelled from</word>
+	<word key="was_not_expelled_from" isjs="true">was not expelled from</word>
+	<word key="game">Game</word>
+	<word key="table_stake">Table Stake</word>
+	<word key="bet">Bet</word>
+	<word key="win">Win</word>
+	<word key="ejw">EJW</word>
+	<word key="hand_value" isjs="true">Hand Value</word>
+	<word key="player" isjs="true">Player</word>
+	<word key="minimize_all" isjs="true">Minimize All</word>
+	<word key="expand_all" isjs="true">Expand All</word>
+	<word key="fold">Fold</word>
+	<word key="check">Check</word>
+	<word key="call">Call</word>
+	<word key="uncalled_bet">Uncalled Bet</word>
+	<word key="raise">Raise</word>
+	<word key="association_type">Association Type</word>
+	<word key="details" isjs="true">Details</word>
+	<word key="time_used_from">Time Used From</word>
+	<word key="time_used_to">Time Used To</word>
+	<word key="failed" isjs="true">Failed</word>
+	<word key="success" isjs="true">Success</word>
+	<word key="ip">IP</word>
+	<word key="action_name">Action Name</word>
+	<word key="account_sender">Account Sender</word>
+	<word key="account_target">Account Target</word>
+	<word key="parameters">Parameters</word>
+	<word key="action_group">Action Group</word>
+	<word key="device">Device</word>
+	<word key="associated_users">Associated Users</word>
+	<word key="private_key">Private Key</word>
+	<word key="description">Description</word>
+	<word key="external_master_id">External Master ID</word>
+	<word key="game_provider_id">Game Provider ID</word>
+	<word key="access_your_device_from_here">Access your device from here</word>
+	<word key="personalize">Personalize</word>
+	<word key="create_new_device">New Device</word>
+	<word key="delete" isjs="true">Delete</word>
+	<word key="back">Back</word>
+	<word key="associate_action">Associate Action</word>
+	<word key="action_id">Action ID</word>
+	<word key="payouts">Payouts</word>
+	<word key="links_configuration">Links Configuration</word>
+	<word key="enter_an_account_and_select_from_the_list_of_results">Enter an account and select from the list of results displayed</word>
+	<word key=""></word>
+	<word key=""></word>
+	<word key=""></word>
+	<word key=""></word>
+	<word key=""></word>
+	<word key=""></word>
+	
+</translations>

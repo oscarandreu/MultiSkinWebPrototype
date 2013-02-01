@@ -1,0 +1,255 @@
+* { 
+margin: 0; 
+padding: 0; 
+outline: 0;
+}
+/*********************HOME************************/
+
+a.block_0{
+display:block;
+}
+/*banner principal*/
+a.bannerHome_0.block_0{
+	width:1000px;
+	height:357px;
+	background:url(../images/home/home-principal.png) no-repeat 0 0;
+	margin: 0 0 15px 0;
+}
+/*banner doble bonus*/
+a.dobleBonus_0.block_0{
+	width:1000px;
+	height:74px;
+	background:url(../images/home/home-double-bonus.png) no-repeat 0 0;
+	margin: 0 0 6px 0;
+}
+/*banners betting casino*/
+div.banners_0{
+	width:1000px;
+	height:227px;
+}
+	div.banners_0 .more_0{
+		width:262px;
+		height:227px;
+		float:left;
+	}
+		div.banners_0 .more_0 .arrow_0{
+			background:url(../images/home/alfa70b.png) repeat 0 0;
+		}
+			div.banners_0 .more_0 .arrow_0 .arrowimg_0{
+				width:263px;
+				height:94px;
+				background:url(../images/home/home-more.png) no-repeat 0 0;
+			}
+		div.banners_0 .more_0 .money_0{
+			width:256px;
+			height:127px;
+			background:url(../images/home/home-move-money.png) no-repeat 0 0;		
+			margin: 6px 0 0 0;
+}
+
+	div.banners_0 .betcas_0{
+		width:738px;
+		height:227px;
+		float:left;
+		background:url(../images/home/alfa70b.png) repeat 0 0;
+	
+	}
+		div.banners_0 .betcas_0 .bet_0{
+			width:468px;
+			height:197px;
+			float:left;
+			background:url(../images/home/home-betting.jpg) no-repeat 0 0;
+			margin: 15px;
+		}
+			div.banners_0 .betcas_0 .bet_0 a{
+				width:468px;
+				height:197px;
+			}
+		div.banners_0 .betcas_0 .cas_0{
+			width:225px;
+			height:197px;
+			float:left;
+			background:url(../images/home/home-casino.jpg) no-repeat 0 0;
+			margin: 15px 0;
+		}
+			div.banners_0 .betcas_0 .cas_0 a{
+				width:225px;
+				height:197px;
+			}
+		
+		
+/******************************POKER DOWNLOAD**************************************/		
+
+body.pokerdownload { 
+background: url(http://www.pokerwebservices.com/cdn/callofpoker.com/images/bg-body.jpg) no-repeat fixed top center black;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
+#page-wrap { 
+background: url(../images/bg-wrapper-pat-overlay-01.gif) repeat fixed 0 0;
+width: 1000px; 
+padding: 0 0 0 15px; 
+margin: 0 auto; 
+overflow: hidden; 
+height: 100%; 
+  font-family: 'Jura',sans-serif;
+}
+
+.info-col { 
+float: left; 
+width: 132px; 
+height: 100%; 
+padding: 50px 0 0 0; 
+opacity: 0.7;
+filter: alpha(opacity=70);
+}
+.info-col h2 { 
+ text-align: center; 
+  font-weight: normal; 
+padding: 25px 0; 
+   text-shadow: 0 0 5px red,0 0 10px red,0 0 20px #FF0900;
+   color: #FFCB45;
+  font-size: 28px;
+}
+
+.image { 
+height: 100px; 
+text-indent: -9999px; 
+display: block; 
+border-right: 1px solid #333; 
+ border-left: 1px solid #000;
+ cursor:pointer;
+}
+div#page-wrap div.info-col.curCol a.image { 
+ cursor:default;
+}
+
+.ideal { background: url(../images/pokerdownload/ideal.jpg) center center no-repeat; }
+.cdv { background: url(../images/pokerdownload/cdv.jpg) center center no-repeat; }
+.everleaf { background-image: url(../images/pokerdownload/everleaf.jpg); }
+.cake { background: url(../images/pokerdownload/cake.jpg) center center no-repeat; }
+.merge { background: url(../images/pokerdownload/merge.jpg) center center no-repeat; }
+dl{
+border-right: 1px solid black;
+border-left: 1px solid black;
+}
+dt { 
+padding: 5px; 
+background: #900; 
+color: white;   
+text-align:center; 
+ border-bottom: 1px solid #111;
+}
+
+dd { 
+position: absolute; 
+left: -9999px; 
+top: -9999px; 
+width: 299px; 
+ 
+color: white;
+}
+dd p{ 
+padding:15px;
+}
+/* 
+dt:nth-of-type(1) { background: #b44835; }
+dd:nth-of-type(1) { background: #b44835; }
+
+dt:nth-of-type(2) { background: #ff7d3e; }
+dd:nth-of-type(2) { background: #ff7d3e; }
+
+dt:nth-of-type(3) { background: #ffb03b; }
+dd:nth-of-type(3) { background: #ffb03b; }
+
+dt:nth-of-type(4) { background: #c2a25c; }
+dd:nth-of-type(4) { background: #c2a25c; }
+
+dt:nth-of-type(5) { background: #4c443c; }
+dd:nth-of-type(5) { background: #4c443c; }
+
+dt:nth-of-type(6) { background: #656b60; }
+dd:nth-of-type(6) { background: #656b60; }
+ */
+.curCol { 
+z-index: 1; 
+position: relative; 
+opacity: 1;
+filter: alpha(opacity=100);
+}
+
+dt.dtDownload { 
+background: #b44835; 
+}
+dt.dtFeat  { 
+background: #ff7d3e; 
+}
+/*******seleccionado******/
+.curCol dl dt {
+border-bottom: 1px solid #111; 
+background: #383838; 
+}
+.curCol dl dt.current {
+border-bottom: 1px solid #111; 
+background: #1a1a1a; 
+color: #Fa0;
+}
+.curCol dl dd{ 
+background: #222222; 
+}
+
+.curCol dl dt.dtDownload {
+}
+.curCol dl dd.ddDownload  {  
+}
+.curCol dl dt.dtFeat  { 
+}
+.curCol dl dd.ddFeat { 
+}		
+		
+	
+/******************************AFFILIATES**************************************/		
+		
+		
+div.affBlock{
+width:1000px;
+height: 700px;
+background: url(../images/affiliates.png) no-repeat 0 0;
+  font-family: 'Jura',sans-serif;
+padding-top: 348px;
+padding-left: 92px;
+}
+	
+ul.ulAffContact{
+}		
+ul.ulAffContact li{
+    list-style-type: none;
+	margin-bottom:10px;
+}		
+ul.ulAffContact li a{
+font-size:15px;
+color:#fa0;
+}		
+ul.ulAffContact li a:hover{
+color:#fff;
+}		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
